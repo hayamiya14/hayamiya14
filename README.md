@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hayamiya14)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=hayamiya14&theme=onedark)
