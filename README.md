@@ -10,8 +10,3 @@
     width="60%"
   />
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,go,nim" />
-  </a>
-</p>
